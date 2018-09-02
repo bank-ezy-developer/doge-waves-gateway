@@ -18,3 +18,7 @@ An API is created that enables the creation of the waves wallet and exchanging t
 For the dogecoin coin wallet will be run using a json rpc interface wallet service using the dogecoin core. This is implemented with php code. 
 
 All transactions are logged into a mysql database.
+
+Requirements to run the gateway: 
+Ubuntu LAMP server with the dogecoin core installed. 
+Python
