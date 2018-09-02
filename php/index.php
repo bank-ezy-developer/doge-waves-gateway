@@ -206,7 +206,6 @@ function check_user_name($new_name)
    </style>
 </head>
 <body>
-</script>
    <center>
     <div>
     <p><a href="https://localhost/index.php">
@@ -217,8 +216,7 @@ function check_user_name($new_name)
       </p>
    <p></p>
    <div align="center" style="width: 700px; background: #FFFFFF; font-weight: bold; border: 4px solid #148fb7; padding:10px; border-radius: 15px; -moz-border-radius: 15px;">
-     
-<!--   <input type="hidden" name="action" value="cointoken"> -->
+
    <table style="width: 100%; height: 50px;">
      <tr>
          <td align="middle">
