@@ -16,3 +16,5 @@ Similarly when a dogecoin token to dogecoin coin exchange is requested a new wav
 An API is created that enables the creation of the waves wallet and exchanging the waves tokens. This API is only available on the server that will run the gateway. This is done using a python script. 
 
 For the dogecoin coin wallet will be run using a json rpc interface wallet service using the dogecoin core. This is implemented with php code. 
+
+All transactions are logged into a mysql database.
