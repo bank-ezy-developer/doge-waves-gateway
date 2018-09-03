@@ -24,3 +24,5 @@ Ubuntu LAMP server with the dogecoin core installed.
 Python
 
 Doge Asset ID on the Waves DEX: DvpmDF45bmo9xDb6rSte8uPPWWeh6EGzoATwxMStWQKT
+
+A working version of the bridge can be found here: https://bank-ezy.com/doge-on-waves-dex/
