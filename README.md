@@ -22,3 +22,5 @@ All transactions are logged into a mysql database.
 Requirements to run the gateway: 
 Ubuntu LAMP server with the dogecoin core installed. 
 Python
+
+Doge Asset ID on the Waves DEX: DvpmDF45bmo9xDb6rSte8uPPWWeh6EGzoATwxMStWQKT
